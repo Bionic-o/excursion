@@ -1,0 +1,33 @@
+html {
+  background-color:black;
+}
+
+h2 {
+  color:white;
+  font-size: 50px;
+  text-align: center;
+}
+
+aside {
+  color:white;
+}
+
+video {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+aside {
+  font-size: 20px;
+  text-align: center;
+  opacity: 0.5;
+}
