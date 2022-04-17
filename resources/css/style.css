@@ -6,6 +6,8 @@ h2 {
   color:white;
   font-size: 50px;
   text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
 }
 
 aside {
@@ -27,7 +29,22 @@ video {
 }
 
 aside {
-  font-size: 20px;
+  font-size: 21px;
   text-align: center;
-  opacity: 0.5;
+  font-family: Verdana;
+  color: gray;
+}
+
+section {
+  text-align: center;
+}
+
+.downloadlink {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
 }
